@@ -1,0 +1,17 @@
+{
+  "name": "randomquotemachine",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Torben Schaffhauser"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
